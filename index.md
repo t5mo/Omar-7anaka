@@ -1,37 +1,106 @@
-## Welcome to GitHub Pages
+<!DOCTYPE html>
+<!-- saved from url=(0034)file:///C:/Users/Omar/Desktop/.htm -->
 
-You can use the [editor on GitHub](https://github.com/t5mo/Omar-7anaka/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+<html lang="en">
+<head>
+<title>موقع ملوش لازمه </title>
+</head>
+<body style="background-color:powderblue;">
+<h1>                         انا حاطت الهيدر دا بس عشان مكسل اشيلو هيكركب الدنيا </h1> <h3 style="text-align:right;" >   الموقع دا الي عاملو واحد روش سباحه بس بدون ذكر اسامي يعني اسمو   <a href="https://www.facebook.com/profile.php?id=100010805980275"> عمر </a> </h3>
+<h2>                        (صحيح الموقع دا هيضيع وقتك عالفاضي بس حلو اسمع مني) </h2>
+<hr>
+<p style="background-color:tomato ; text-align:center;"> <font size = "8"> يسطا الموقع دا قمد بوفتيقه خد مني </font> </p>
+<hr>
+<p style="text-align:right;font-size:50px;">مبدأيا كدا
+<img src="https://i.pinimg.com/originals/fc/2c/f7/fc2cf71442eae0e83817068e1d7294f4.jpg" alt="سعد الصغير " width="300" height="175" style="float:right:300px;" >
+</p>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+<p style="text-align:right;font-size:50px;">:السايت الاول</p>
+<p style="text-align:right;font-size:35px;"> <a href="https://www.trashloop.com/"> ارمي البتاعه دي فالزباله </a> </p>
 
-- Bulleted
-- List
+<p style="text-align:right;font-size:33px;"> روش صح؟ قلتلك </p>
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+<hr>
+<p style="text-align:right;font-size:50px;">:السايت التاني</p>
+<p style="text-align:right;font-size:35px;"> <a href="http://www.staggeringbeauty.com/">  بص دا زي صوباع كدا انت بترقصه او بتحركو بس دخيلك معلم خلبالك عشان فيه فلاش عالي </a> </p>
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+<hr>
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/t5mo/Omar-7anaka/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+<p style="text-align:right;font-size:50px;">:السايت التالت</p>
+<p style="text-align:right;font-size:35px;"> <a href="https://smashthewalls.com/"> لو حضرتك متضايق.. ادخل اكسر في الحيطه يفنن  </a> </p>
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+<hr>
+
+<p style="text-align:right;font-size:50px;">:السايت الرابع</p>
+<p style="text-align:right;font-size:35px;"> <a href="https://sciencevsmagic.net/tes/#1.10.10.0.aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"> السايت دا هيخليك احول بكل سهوله </a> </p>
+<p style="text-align:right;font-size:30px;"> عشان نبقى متفقين انا نفسي مهفمتش حاجه  </p>
+
+<hr>
+
+<p style="text-align:right;font-size:50px;">:السايت الخامس</p>
+<p style="text-align:right;font-size:35px;"> <a href="http://eelslap.com/"> لو عايز تلطش حد اتفضل </a> </p>
+<p style="text-align:right;font-size:70px;color:red"> بس </p>
+<img src="https://i.pinimg.com/originals/3e/36/fb/3e36fb3645402988b1e1ec5a6c92e21b.jpg" alt="دخيلك معلم لا تعورنا" width="268" height="230" style="float:right" >
+<pre>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</pre>
+
+
+
+
+
+
+
+
+
+<hr>
+<p style="text-align:right;font-size:50px;">:السايت السادس</p>
+<p style="text-align:right;font-size:35px;"> <a href="https://hackertyper.com/"> طلع الهقر الجواك ينقم :)</a> </p>
+<hr>
+
+<p style="text-align:right;font-size:50px;">:السايت السابع</p>
+<p style="text-align:right;font-size:35px;"> <a href="https://www.internetlivestats.com/"> بص دا بيوريك ايه الي بيحصل فالعالم حاليا </a> </p>
+
+<hr>
+
+<p style="text-align:right;font-size:50px;">:السايت التامن والاخير</p>
+<p style="text-align:right;font-size:35px;"> السايت الانت في دلوقتي </p>
+<hr>
+<hr>
+<hr>
+<hr>
+<hr>
+<hr>
+<p style="text-align:right;font-size:35px;"> الويب سايت دا للهزار يشوباب </p>
+
+
+<p style="text-align:right;font-size:25px;"> حاجه اخيره قبل ما امشي دا اول موقع اعملو ف لسه بتعلم استرو على ما واجهتم يشبب
+
+
+
+
+
+
+</body>
+</html>
